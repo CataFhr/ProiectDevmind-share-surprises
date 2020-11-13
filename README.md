@@ -5,7 +5,7 @@ ProiectDev(Java Class Hierarchy) - Aplicatie 'Imparte surprize'
     -sa implementeze diversi algoritmi de stocare si daruire a surprizelor
     -sa foloseasca un mecanism aleator de generare a unui set (nou) de surprize
 
-*Scopul final al aplicatiei estesa putem:
+*Scopul final al aplicatiei este sa putem:
    -defini cu usurinta noi tipuri de dorinte, care pot fi usor integrate cu cele deja existente
    -crea noi algoritmi de gestiune a unei colectii de surprize, care ulterior sa poata inlocui sau extinde setul existent fara modificari majore in codul existent
    -lucra in mod comun cu orice tipuri de surprize
