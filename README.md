@@ -1,4 +1,4 @@
-ProiectDev(Java Class Hierarchy) - Aplicatie 'Imparte surprize'
+ProiectDevmind(Java Class Hierarchy) - Aplicatie 'Imparte surprize'
 
 *Aplicatia e menita sa gestioneze un set de surprize. 
     -sa utilizeze mai multe tipuri de surprize (i.e. ce implementeaza o interfata comuna)
